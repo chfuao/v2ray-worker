@@ -4,5 +4,5 @@ compatibility_date = "2024-05-29"
 compatibility_flags = ["nodejs_compat"]
 
 kv_namespaces = [
-  { binding = "settings", id = "settings" }
+  { binding = "settings", id = "20d17c9062024eb09732bb3e8ad585a9" }
 ]
